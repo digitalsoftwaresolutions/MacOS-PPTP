@@ -2,7 +2,7 @@
 MacOS PPTP Interface using System's PPTP Plugin (Experimental) 
 
 # Note
-UI Interface system is not stable at all (I've wrote it at 4:00 am without any knowledge about PySide2)<br>
+UI system is not stable at all (I've wrote it at 4:00 am without any knowledge about PySide2)<br>
 You should run these scripts as ROOT or it will not work 
 
 # Supported Systems
